@@ -1,0 +1,7 @@
+C:\Users\Harikeshi\source\repos\Lab4.Hoffman\Hoffman.Data\bin\Debug\Hoffman.Data.exe.config
+C:\Users\Harikeshi\source\repos\Lab4.Hoffman\Hoffman.Data\bin\Debug\Hoffman.Data.exe
+C:\Users\Harikeshi\source\repos\Lab4.Hoffman\Hoffman.Data\bin\Debug\Hoffman.Data.pdb
+C:\Users\Harikeshi\source\repos\Lab4.Hoffman\Hoffman.Data\obj\Debug\Hoffman.Data.csprojAssemblyReference.cache
+C:\Users\Harikeshi\source\repos\Lab4.Hoffman\Hoffman.Data\obj\Debug\Hoffman.Data.csproj.CoreCompileInputs.cache
+C:\Users\Harikeshi\source\repos\Lab4.Hoffman\Hoffman.Data\obj\Debug\Hoffman.Data.exe
+C:\Users\Harikeshi\source\repos\Lab4.Hoffman\Hoffman.Data\obj\Debug\Hoffman.Data.pdb
